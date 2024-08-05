@@ -80,9 +80,9 @@ function Navbar (props) {
                         <ScrollLink className='links'to="ProjectCard">Project</ScrollLink>
                     </li>
 
-                    <li onClick={clickHandler}>
+                    {/* <li onClick={clickHandler}>
                         <Link to="/test">Testing Page</Link>
-                    </li>
+                    </li> */}
 
                 </ul>
             </div>
